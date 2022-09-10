@@ -9,6 +9,6 @@
 
 <div align="center">
 
-[![Cars in pack](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/project-error/pe-utils/master/LICENSE)
+[![Cars in pack](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)](https://github.com/project-error/pe-utils/master/LICENSE)
 ![Discord](https://img.shields.io/discord/791854454760013827?label=Our%20Discord)
 </div>
