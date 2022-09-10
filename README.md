@@ -1,5 +1,5 @@
 <div align="center">
-    <img href="https://projecterror.dev" width="150" src="https://cdn.discordapp.com/attachments/969606727148404736/1017792263134396447/unknown.png?size=4096" alt="Material-UI logo" />
+    <img href="https://projecterror.dev" width="150" src="https://cdn.discordapp.com/attachments/974415628171632681/1018290609833922641/logo.mine.png?size=4096" alt="Material-UI logo" />
 </div>
 <h1 align="center">FiveM React and Lua Boilerplate</h1>
 
