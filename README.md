@@ -13,3 +13,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Now!-blue)](https://discord.gg/t5AXX7xPnm)
 ![Discord](https://img.shields.io/badge/Release-1.0-red)
 </div>
+
+<h1 align="center">Click on the release button</h1>
+
+<div align="center">
