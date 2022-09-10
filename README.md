@@ -1,7 +1,7 @@
 <div align="center">
-    <img href="https://projecterror.dev" width="150" src="https://cdn.discordapp.com/attachments/974415628171632681/1018290609833922641/logo.mine.png?size=4096" alt="Material-UI logo" />
+    <img href="https://projecterror.dev" width="150" src="https://cdn.discordapp.com/attachments/974415628171632681/1018290609833922641/logo.mine.png?size=4096" alt="HoaX LOGO" />
 </div>
-<h1 align="center">FiveM React and Lua Boilerplate</h1>
+<h1 align="center">FiveM Mercedes Car Pack</h1>
 
 <div align="center">
 A simple and extendable React (TypeScript) boilerplate designed around the Lua ScRT
