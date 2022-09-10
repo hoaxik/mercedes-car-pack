@@ -4,11 +4,11 @@
 <h1 align="center">FiveM Mercedes Car Pack</h1>
 
 <div align="center">
-A simple and extendable React (TypeScript) boilerplate designed around the Lua ScRT
+
 </div>
 
 <div align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/project-error/pe-utils/master/LICENSE)
+[![Cars in pack](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/project-error/pe-utils/master/LICENSE)
 ![Discord](https://img.shields.io/discord/791854454760013827?label=Our%20Discord)
 </div>
