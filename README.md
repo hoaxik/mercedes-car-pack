@@ -11,5 +11,4 @@
 
 [![Cars in pack](https://img.shields.io/badge/car%20in%20pack-23-brightgreen)](https://github.com/hoaxik/mercedes-car-pack/blob/main/CAR_NAMES.md)
 [![Cars in pack](https://img.shields.io/badge/Discord-Join%20Now!-blue)](https://discord.gg/t5AXX7xPnm)
-![Discord](https://img.shields.io/badge/Discord-Join%20Now!-blue)(https://discord.gg/t5AXX7xPnm)
 </div>
