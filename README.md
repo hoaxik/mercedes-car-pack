@@ -39,5 +39,5 @@
 
 - 1 Drop mercedes-pack to [resource] folder
 - 2 Start marcedes-pack in server.cfg
-- 3. Put mercedes.sql in Database
-- 4. Enjoy!
+- 3 Put mercedes.sql in Database
+- 4 Enjoy!
