@@ -44,7 +44,7 @@
 3. Put `mercedes.sql` in Database
 4. Enjoy!
 
-<h1 align="center">FiveM Mercedes Car Pack</h1>
+<h1 align="center">Car Spawn Codes</h1>
 
 - amggtr
 - gl63
