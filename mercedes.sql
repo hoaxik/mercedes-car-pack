@@ -2,7 +2,6 @@ INSERT INTO `vehicle_categories` (`name`, `label`) VALUES ('mercedes', 'Mercedes
 
 
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('AMG GT R 2017', 'amggtr', 1, 'mercedes');
-INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('C63 S 2017', 'c63w205', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('GL63 AMG', 'gl63', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('G63 AMG', 'xperia38', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('E400 Coupe 4matic 2019', 'e400', 1, 'mercedes');
