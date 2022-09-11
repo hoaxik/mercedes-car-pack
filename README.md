@@ -41,4 +41,3 @@
 2. Start `marcedes-pack` in `server.cfg`
 3. Put `mercedes.sql` in Database
 4. Enjoy!
-````
