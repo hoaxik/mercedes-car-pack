@@ -13,7 +13,6 @@ INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('A45 AMG',
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('AMG GLE 64 Coupe 2020', 'gle', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('C63 AMG Coupe Black Series 2012', 'mbc63', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('GT Black Series', 'amggtbs', 1, 'mercedes');
-INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('300SL Gullwing 1995', 'mb300sl', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('GLE 53 Coupe 2020', 'gle53', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('SLR McLaren 2005', 'mbslr', 1, 'mercedes');
 INSERT INTO `vehicles` (`name`, `model`, `price`, `category`) VALUES ('C63 Black Series LibertyWalk 2014', '63lb', 1, 'mercedes');
