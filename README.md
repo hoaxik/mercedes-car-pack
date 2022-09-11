@@ -25,7 +25,6 @@
 - Mercedes-AMG GLE 63 Coupe 2020</h1>
 - 2012 Mercedes-Benz C63 AMG Coupe Black Series
 - Mercedes-AMG GT Black Series
-- 1955 Mercedes-Benz 300SL Gullwing
 - 2020 Mercedes Benz GLE 53 Coupe
 - 2005 Mercedes-Benz SLR McLaren
 - Mercedes-Benz GLS Maybach
