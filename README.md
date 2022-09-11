@@ -14,10 +14,10 @@
 [![Release](https://img.shields.io/badge/Release-1.0-red)](https://github.com/hoaxik/mercedes-car-pack/releases/tag/V1.0)
 </div>
 
-<h1 align="center">Mercedes-Benz AMG GT R 2017</h1>
-<h1 align="center">2017 Mercedes-AMG C63 S</h1>
-<h1 align="center">Mercedes-Benz GL63 AMG</h1>
-<h1 align="center">2019 G63 ///AMG</h1>
+- Mercedes-Benz AMG GT R 2017
+- 2017 Mercedes-AMG C63 S
+- Mercedes-Benz GL63 AMG
+- 2019 G63 ///AMG
 <h1 align="center">2019 Mercedes-Benz E400 Coupe 4matic (C238)</h1>
 <h1 align="center">Mercedes-Benz AMG GT63 2018</h1>
 <h1 align="center">2019 Mercedes-Benz G63 4X4</h1>
