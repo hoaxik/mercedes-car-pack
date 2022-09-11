@@ -15,7 +15,6 @@
 </div>
 
 - Mercedes-Benz AMG GT R 2017
-- 2017 Mercedes-AMG C63 S
 - Mercedes-Benz GL63 AMG
 - 2019 G63 ///AMG
 - 2019 Mercedes-Benz E400 Coupe 4matic (C238)
