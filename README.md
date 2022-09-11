@@ -41,3 +41,9 @@
 - 2 Start marcedes-pack in server.cfg
 - 3 Put mercedes.sql in Database
 - 4 Enjoy!
+
+# Download & Installation
+1. Download the files
+2. Put the Prefech_ALPR folder in the server resource directory
+3. Add this to your `server.cfg`
+```
