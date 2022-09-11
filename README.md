@@ -36,7 +36,8 @@
 - G-Class G550
 
 <h1 align="center">How to install?</h1>
+
 - 1. Drop mercedes-pack to [resource] folder
 - 2. Start marcedes-pack in server.cfg
 - 3. Put mercedes.sql in Database
-- 3. Enjoy!
+- 4. Enjoy!
