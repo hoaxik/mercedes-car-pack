@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Cars in pack](https://img.shields.io/badge/Cars%20In%20Pack-22-brightgreen)](https://github.com/hoaxik/mercedes-car-pack/blob/main/CAR_NAMES.md)
+[![Cars in pack](https://img.shields.io/badge/Cars%20In%20Pack-21-brightgreen)](https://github.com/hoaxik/mercedes-car-pack/blob/main/CAR_NAMES.md)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Now!-blue)](https://discord.gg/t5AXX7xPnm)
 [![Release](https://img.shields.io/badge/Release-1.0-red)](https://github.com/hoaxik/mercedes-car-pack/releases/tag/V1.0)
 </div>
