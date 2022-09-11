@@ -1,7 +1,5 @@
 Mercedes-Benz AMG GT R 2017 -- amggtr
 
-2017 Mercedes-AMG C63 S -- c63w205
-
 Mercedes-Benz GL63 AMG -- gl63
 
 2019 G63 ///AMG -- xperia38
@@ -21,8 +19,6 @@ Mercedes-AMG GLE 63 Coupe 2020 -- gle
 2012 Mercedes-Benz C63 AMG Coupe Black Series -- mbc63
 
 Mercedes-AMG GT Black Series -- amggtbs
-
-1955 Mercedes-Benz 300SL Gullwing -- mb300sl
 
 2020 Mercedes Benz GLE 53 Coupe -- gle53
 
